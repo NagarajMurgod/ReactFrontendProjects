@@ -1,4 +1,4 @@
-# ReactFrontendProjects
+# ReactFrontend Practice Projects
 
 ## Project-1 : Brand Page
 
